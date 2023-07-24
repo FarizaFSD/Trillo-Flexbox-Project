@@ -1,4 +1,4 @@
-### 👩🏻‍💻 This is small project for mastering Flexbox
+### 👩🏻‍💻 This is a small project for mastering Flexbox
 
 ###### 🌻 Trillo!!!!
 
