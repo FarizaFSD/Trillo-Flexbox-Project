@@ -2,6 +2,6 @@
 
 ## 🌻 Trillo!!!!
 
-### 💁🏻‍♀️ Check it out here:
+### 💁🏻‍♀️ Check it out here: https://farizafsd.github.io/Trillo-Flexbox-Project/
 
 #### Design belongs to Jonas Schmedtmann
