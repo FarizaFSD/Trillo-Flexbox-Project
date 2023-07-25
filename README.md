@@ -1,5 +1,7 @@
 ### 👩🏻‍💻 This is a small project for mastering Flexbox
 
-###### 🌻 Trillo!!!!
+## 🌻 Trillo!!!!
 
 ### 💁🏻‍♀️ Check it out here:
+
+#### Design belongs to Jonas Schmedtmann
